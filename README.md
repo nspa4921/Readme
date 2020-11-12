@@ -4,7 +4,7 @@
 <p></p>
 <p align="center">
   <samp>
-    Passionate hard-working web developer with over 2 years of front end experience for implementing and maintaining responsive websites and mobile applications. Highly skilled in
+    I am passionate hard-working web developer with over 2 years of front end experience for implementing and maintaining responsive websites and mobile applications. Highly skilled in
 HTML, CSS, jQuery, JavaScript, React and React-Native. Open-minded and a quick learner, able to pick up on new processes, systems, and technologies quickly. 
     <br>
     I'm currently looking for full-time Frontend developer opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me.
